@@ -387,6 +387,8 @@ img { max-width: 100%; }
 .portfolio-img.jagdamba { background: linear-gradient(135deg, #0a3d3d, #0e6b6b); }
 .pm-hero.teal { background: rgba(255,255,255,0.3); }
 .port-tag.real { color: #1a7a3a; }
+.port-live-link { display: inline-flex; align-items: center; gap: 6px; margin-top: 10px; font-size: 13px; font-weight: 600; color: var(--navy); border-bottom: 2px solid var(--gold); padding-bottom: 2px; transition: color 0.2s; }
+.port-live-link:hover { color: var(--gold); }
 
 .portfolio-overlay {
   position: absolute;
