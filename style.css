@@ -384,6 +384,9 @@ img { max-width: 100%; }
 .portfolio-img.cafe { background: linear-gradient(135deg, #1a4a2e, #2d7a4f); }
 .portfolio-img.clinic { background: linear-gradient(135deg, #0f2557, #1a3a7a); }
 .portfolio-img.interior { background: linear-gradient(135deg, #4a3000, #8a5c00); }
+.portfolio-img.jagdamba { background: linear-gradient(135deg, #0a3d3d, #0e6b6b); }
+.pm-hero.teal { background: rgba(255,255,255,0.3); }
+.port-tag.real { color: #1a7a3a; }
 
 .portfolio-overlay {
   position: absolute;
